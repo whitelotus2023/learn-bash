@@ -46,7 +46,7 @@ Per utilizzare questa guida con vim utilizzare i seguenti due comandi
 
 **(es38.sh)** Scrivere uno script che prevede 3 parametri. Il primo parametro deve essere il nome assoluto di una directory (D), mentre il secondo ed il terzo vanno trattati come nomi semplici di file (F1), (F2). Lo script cerca ricorsivamente in D tutte le directory che contengono entrambi i file F1 ed F2, ne stampa il percorso completo, e mostra anche la somma della dimensione in byte di F1 ed F2.
 
-**(es39.sh)** Scrivere uno script che prevede 2 parametri. Il primo parametro deve essere il nome assoluto di una directory (D), mentre il secondo ed il terzo vanno trattati come nomi semplici di file (F1), (F2). Lo script cerca ricorsivamente in D per verificare che esistano (anche in directory diverse) almeno 1 file di nome F1 ed almeno 1 file di nome F2. Stampare il numero di occorrenze di F1 ed F2.
+**(es39.sh)** Scrivere uno script che prevede 3 parametri. Il primo parametro deve essere il nome assoluto di una directory (D), mentre il secondo ed il terzo vanno trattati come nomi semplici di file (F1), (F2). Lo script cerca ricorsivamente in D per verificare che esistano (anche in directory diverse) almeno 1 file di nome F1 ed almeno 1 file di nome F2. Stampare il numero di occorrenze di F1 ed F2.
 
 ---
 
