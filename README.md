@@ -1,10 +1,10 @@
 # Learn Bash
 
 ## Software
-* [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-* [EndeavourOS](https://endeavouros.com/) 
+* [VirtualBox](https://www.virtualbox.org/wiki/Downloads), [UTM](https://mac.getutm.app/) (Mac M*)
+* [Arch Linux](https://archlinux.org/) 
 
-[Guida installazione EndeavourOS](EndeavourOS%20Installation/README.md)
+[Guida installazione Arch Linux](https://www.youtube.com/watch?v=cFqRGA94b1o)
 
 ## Libri
 * Garrels - Bash Guide for Beginners
