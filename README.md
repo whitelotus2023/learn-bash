@@ -4,7 +4,8 @@
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads), [UTM](https://mac.getutm.app/) (Mac M*)
 * [Arch Linux](https://archlinux.org/) 
 
-[Guida installazione Arch Linux](https://www.youtube.com/watch?v=cFqRGA94b1o)
+Per installare Arch Linux fare riferimento a [questa guida](https://www.youtube.com/watch?v=cFqRGA94b1o). Nota bene: al minuto 9:10 il video da indicazioni su quale ambiente grafico installare. Selezionare *Gnome* solo in caso di installazione su macchina fisica. Per utilizzo all'interno di una macchina virtuale, selezionare *Cinnamon*.
+
 
 ## Libri
 * Garrels - Bash Guide for Beginners
@@ -18,12 +19,11 @@
 * https://explainshell.com/
 
 ## Materiale didattico
-Una volta terminata l'installazione di EndeavourOS, aprire un terminale ed inserire i seguenti comandi. 
+Una volta terminata l'installazione, aprire un terminale ed inserire i seguenti comandi. 
 
 ```
-$ yay -Syyu
 $ sh -c "$(curl -fsLS get.chezmoi.io)" -- init --apply nbicocchi
-$ ./install_scripts/install_script.sh --zsh --base-cli --base-gui --aur
+$ ./install_scripts/install_script.sh --base-cli --base-gui --aur
 $ git clone https://github.com/nbicocchi/learn-bash.git
 ```
 
