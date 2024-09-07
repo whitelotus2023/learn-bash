@@ -9,7 +9,7 @@ if [ $# -ne 2 ]; then
 	usage
 fi
 
-if [ -f "$1" ]; then
+if [ ! -f "$1" ]; then
 	usage
 fi
 
