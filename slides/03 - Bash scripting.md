@@ -389,7 +389,7 @@ done
 ```shell
 # Esempio: tabellina del 5  
 for i in 1 2 3 4 5; do  
-  echo "5 * %i = $(expr 5 \* $i)"  
+  echo "5 * $i = $(expr 5 \* $i)"  
 done
 ```
 
